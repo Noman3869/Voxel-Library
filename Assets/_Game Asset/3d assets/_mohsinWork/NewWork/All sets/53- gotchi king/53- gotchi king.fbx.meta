@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: 259bd8d64ecbfd943b758a9f8d66f990
+ModelImporter:
+  serializedVersion: 20300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: e8659020c21c68c4cb018a2eefbb4294, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: king_rofls_palette
+    second: {fileID: 2100000, guid: 1e925426470b7f14eaee8248ba23ac01, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: king_rofls.vox-0
+    second: {fileID: 2800000, guid: fb726467425564048b2c45072249148e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: king_rofls.vox-1
+    second: {fileID: 2800000, guid: 573a19c189ec7a243bbc01ba43726ca9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: king_rofls.vox-10
+    second: {fileID: 2800000, guid: c92dc7182ab3b124881f96524b763971, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: king_rofls.vox-11
+    second: {fileID: 2800000, guid: 28714ec29c189114381fb8293b7fa412, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: king_rofls.vox-12
+    second: {fileID: 2800000, guid: 5d1a27481146f13499dc967688e93220, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: king_rofls.vox-13
+    second: {fileID: 2800000, guid: d2c8f2cba09d0e0499b7b895991f5356, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: king_rofls.vox-14
+    second: {fileID: 2800000, guid: 36a8c9e0de9e4e348b95638604d69e7e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: king_rofls.vox-15
+    second: {fileID: 2800000, guid: 620f847e58480204bb2358a68ffa2909, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: king_rofls.vox-16
+    second: {fileID: 2800000, guid: d469598c213d63948b45f2a11355631f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: king_rofls.vox-17
+    second: {fileID: 2800000, guid: 266a8dc286abc8b4e93425025d694758, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: king_rofls.vox-18
+    second: {fileID: 2800000, guid: c4e8b65a350378f48bf4cba1e603c63e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: king_rofls.vox-19
+    second: {fileID: 2800000, guid: b3f9c048f0e807a489e592a02069ed17, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: king_rofls.vox-2
+    second: {fileID: 2800000, guid: 099865b0265a8ef44a896f497c4d4771, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: king_rofls.vox-20
+    second: {fileID: 2800000, guid: f126be4c209a30741b41db913a8d10b7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: king_rofls.vox-21
+    second: {fileID: 2800000, guid: 515c3dfd38e01414886b9900a82aa57b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: king_rofls.vox-22
+    second: {fileID: 2800000, guid: 39a7d63a0fff02e499f1b287f07a25f4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: king_rofls.vox-23
+    second: {fileID: 2800000, guid: 27abd45c1cc854d48bc19e7d58cd0a15, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: king_rofls.vox-24
+    second: {fileID: 2800000, guid: 65b594c9f15563f4aac63aefccafe687, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: king_rofls.vox-3
+    second: {fileID: 2800000, guid: 6540217f86619be4f8006f2ab9af25ec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: king_rofls.vox-4
+    second: {fileID: 2800000, guid: ae94cc60e953abd448b55b4feff292ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: king_rofls.vox-5
+    second: {fileID: 2800000, guid: cc6e2528a4940f14095d1c988a1c00e6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: king_rofls.vox-6
+    second: {fileID: 2800000, guid: 6286aeda8c6420e49951e6107cc4bf1b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: king_rofls.vox-7
+    second: {fileID: 2800000, guid: bb62d6e0d5cc40c498e28a838b11a34c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: king_rofls.vox-8
+    second: {fileID: 2800000, guid: f498b29eacc033f428ddbc435a371fb8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: king_rofls.vox-9
+    second: {fileID: 2800000, guid: f3889d167d936dc4e842f346cc841f73, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
